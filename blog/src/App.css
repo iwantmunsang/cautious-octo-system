@@ -16,6 +16,13 @@
   border-bottom: 1px solid gray;
 }
 
+
+.win {
+  background: black;
+  width: 50%;
+  padding-top: 25%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
